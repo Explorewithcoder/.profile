@@ -7,6 +7,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Khushhal Sharma( खुशहाल शर्मा)</h1>
+<h1 align="center">Web developer,Coder,programmer</h1>
 <h3 align="center">A boy who wants to change the mentality of every person that I can do something Big and Proud.🙂</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-kush-1409&label=Profile%20views&color=0e75b6&style=flat" alt="coder-kush-1409" /> </p>
