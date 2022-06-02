@@ -17,9 +17,9 @@
 
 <p align="left"> <a href="https://twitter.com/igdugu" target="blank"><img src="https://img.shields.io/twitter/follow/igdugu?logo=twitter&style=for-the-badge" alt="igdugu" /></a> </p>
 
-- 🔭 I’m currently working on **MongoDB**
+- 🔭 I’m currently working on **Masai School**
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **Masai School**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Coder-Kush-1409](https://github.com/Coder-Kush-1409)
 
@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **Any quires about the languages which I have mentioned.**
 
-- 📫 How to reach me **kushsharma1409@gmail.com**
+- 📫 How to reach me **khussharma599@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
